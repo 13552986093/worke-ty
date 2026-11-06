@@ -1,0 +1,4 @@
+interface:
+  display_name: "BCT 工作台 Agent 开发"
+  short_description: "为既有 BCT 工作台开发悬浮 Agent，复用原生查询、表单与保存流程"
+  default_prompt: "使用 $bct-workbench-agent，先核对现有前端和 OpenAPI，再为指定业务页面适配可验证的 Agent 查询或填表能力。"
